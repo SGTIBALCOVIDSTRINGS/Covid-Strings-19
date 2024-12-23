@@ -58,49 +58,49 @@ frame.add(next button);
 frame set visible true
 object {a:one,b:two,c:three,d:four,e:five,f:six,g:seven,h:eight}
 keys object keys(team)
-Entries Object Entries(Obj);
-Value Object= [Team Color]
-CovidstringsTeamList19=[Black,Green,Burgundy,Indigo,Red,Yellow,Violet,Orange]
-Covid Strings Phrase List19=[Non-Concatenated Strings
-The CDC On The Other Hand Says The Current Wave Is The Second Largest
-One Map Might Have Predicted Some Of The Hotspots
-The Question Though Is Should You Still Be Worried About It?
-Lifestyle Though Can Help Prevent Long Covid
-Andrew Huberman Is Wrong On Whether You Should Take Both Flu And Covid Shots
-Chinas Post Covid Population Collapse However Is A Lot More Murky When It Comes To Hard Data
-From A New Cold War Perspective This Could Be Some Good News Long Term
-Inflation Though Could Be A Major Wildcard Both In The Past And Future 
-Concatenated Strings
-The+Great+Resignation+Is+In+Terms+Of+Economic+Democracy+A+Good+Sign
-In+Terms+Of+Covid+Democracy+There+Is+More+Freedom+Of+Movement+But+There+Are+More+Flawed+Tests
-At+Least+This+Will+Be+Over+Soon+Is+For+Covid+And+Hopefully+Not+For+Democracy
-Its+More+Likely+That+More+Bat+Viruses+Can+Cause+Another+Pandemic
-This+Is+Even+More+Important+When+Considering+That+Covid+Itself+Was+Caused+By+Bats
-This+Also+Means+More+Research+On+Bats+Ability+To+Spread+Disease
-Covid+Research+Though+Should+Also+Extend+To+Long+Covid
-This+Includes+Research+And+Trials+For+Treatments]
-Covid Strings19 Scrambled Phrases List =[Rachreas Tab Irusevs,Gresalt Veaw Cesdon,Nolg Ovicd,Ocdiv+Emcorady,Ocdiv+Aterg+Naitonesigr]
-Covid Strings19 Multiple Choice List=[1:A JoJo Siwa B The CDC C Russian Military Bloggers D The NIH,2:A Democracy B Authoritarianism C Freedom House Rankings D Call Of Duty,3:A Wizard B Actuary C Map D Bill To Kick Trump Off The Ballot,4:A Happy B Worried C Spaced Out D Thinking,5:A Stock Market Reaching40 THOUSAND B Trumps New Republican Threat C Great Resignation D The Alphabet Soup Agencies,6:A Lifestyle B Your Mother C Republicans Stopping Carrying Putins Water D Common Sense,7:A Nuclear Winter B Winter Is Coming C This Will Be Over Soon D Eternal Darkness,
-8:A RSV B Hantavirus C Norovirus  D Covid,9:A Bat Viruses B Integration Of People From Nature C Alien Viruses D Extreme Snowboarding,10:A Chinas B East Timors C Sri Lanka D Russias,11:A ZZ Key B The American Bar Association C Bats D An Aardvark,12:A New Cold War B Hot Peace C End Of History D1980s,13:A Skepticism B Research C Looking Back D Blind Faith,14:A Inflation B Shrinkflation C Sharkflation D Shaqflation,
-15:A Short B Medium  C Long D Russias Election Of,16:A Tribulations B Trials C Russian Activists Fighting The Kremlin D Russian Military Cover-Ups           
-Covid Strings19 Math ProblemsList =[Inflation Though Could Be A Wildcard In Both The Past And Future,If A Graph Showed A Line Of Inflation With A Slope Of5 If The Point In Which The Lines Y Intercept Exists Is At(0,1) What Is The Y Coordinate If The X Coordinate Is9.5?,If The Same Graph Were Reflected Along The X Axis What Would The Resulting Points Be?,If The Points From The Previous Question Got Reflected Off The Y Axis At The Same Angle What Would The New Points Be?, If The Previous Points Got Rotated 270 Degrees Clockwise  What Would The Resulting Points Be?,If The First Point In The Solution Of The Previous Problem Was Rotated180 Degrees Counterclockwise What Would The Result Be?,If+88+Percent+View+The+Great+Resignation+As+A+Positive+Step+For+America+How+Many+Dont?,If+79+Percent+Strongly+Believe+This+What+Percent+Is+Mild?,If+The+Margin+Of+Error+Is+5.01+Percent+What+Is+The+Range?,If+49+Percent+Believe+The+CDCs+Claim+That+The+Current+Covid+Wave+Is+The+Second+Largest+How+Many+Dont?,If+36+Percent+Strongly+Believe+This+How+Many+Are+Mild?,If+The+Margin+Of+Error+Is+5.06+Percent+What+Is+The+Range?]
-Userin.Select Team
-Import Meta.
-Class MyClass
-Constructor (Non-Concatenated)
-Return Category
-If Category==Math Problem:
-Prompt
-Log
-Else:
-Select From Multiple Choice
-If Problem=Multiple Choice 
-Select From Multiple Choice
-Else
-Prompt 
-Log
-Constmyclass=New.Myclass(Concatenated)
-Return Category
+entries object entries(obj);
+value object= [team color]
+covidstringsteamlist19=[black,green,burgundy,indigo,red,yellow,violet,orange]
+covid strings phraselist19=[non-concatenated strings
+the cdc on the other hand says the current wave is the second largest
+one map might have predicted some of the hotspots
+the question though is should you still be worried about it?
+lifestyle though can help prevent long covid
+andrew huberman is wrong on whether you should take both flu and covid shots
+chinas post covid population collapse however is a lot more murky when it comes to hard data
+from a new cold war perspective this could be some good news long term
+inflation though could be a major wildcard both in the past and future 
+concatenated strings
+the+great+resignation+is+in+terms+of+economic+democracy+a+good+sign
+in+terms+of+covid+democracy+there+is+more+freedom+of+movement+but+there+are+more+flawed+tests
+at+least+this+will+be+over+soon+is+for+covid+and+hopefully+not+for+democracy
+its+more+likely+that+more+bat+viruses+can+cause+another+pandemic
+this+is+even+more+important+when+considering+that+covid+itself+was+caused+by+bats
+this+also+means+more+research+on+bats+ability+to+spread+disease
+covid+research+though+should+also+extend+to+long+covid
+this+includes+research+and+trials+for+treatments]
+covid strings19 scrambled phraseslist=[rachreas tab irusevs,gresalt veaw cesdon,nolg ovicd,ocdiv+emcorady,ocdiv+aterg+naitonesigr]
+covid strings19 multiplechoicelist=[1:a jojo siwa b the cdc c russian military bloggers d the nih,2:a democracy b authoritarianism c freedom house rankings d call of duty,3:a wizard b actuary c map d bill to kick trump off the ballot,4:a happy b worried c spaced out d thinking,5:a stock market reaching40 thousand b trumps new republican threat c great resignation d the alphabet soup agencies,6:a lifestyle b your mother c republicans stopping carrying putins water d common sense,7:a nuclear winter b winter is coming c this will be over soon d eternal darkness,
+8:a rsv b hantavirus c norovirus d covid,9:a bat viruses b integration of people from nature c alien viruses d extreme snowboarding,10:a chinas b east timors c sri lanka d russias,11:a zz key b the american bar association c bats d an aardvark,12:a new cold war b hot peace c end of history d1980s,13:a skepticism b research c looking back d blind faith,14:a inflation b shrinkflation c sharkflation d shaqflation,
+15:a short b medium  c long d russias election of,16:a tribulations b trials c russian activists fighting the kremlin d russian military cover-ups           
+covid strings19 math problemslist =[inflation though could be a wildcard in both the past and future,if a graph showed a line of inflation with a slope of5 if the point in which the lines y intercept exists is at(0,1) what is the y coordinate if the x coordinate is9.5?,if the same graph were reflected along the x axis what would the resulting points Be?,If The Points From The previous question got reflected off the y axis at the same angle what would the new points be?, if the previous points got rotated 270 degrees clockwise what would the resulting points be?,if the first point in the solution of the previous problem was rotated180 degrees counterclockwise what would the result be?,if+88+percent+view+the+great+resignation+as+a+positive+step+for+america+how+many+dont?,if+79+percent+strongly+believe+this+what+percent+is+mild?,if+the+margin+of+error+is+5.01+percent+what+is+the+range?,if+49+percent+believe+the+cdcs+claim+that+the+current+covid+wave+is+the+second+largest+how+many+dont?,if+36+percent+strongly+believe+this+how+many+are+mild?,if+the+margin+of+error+is+5.06+percent+what+is+the+range?]
+userin.select team
+import meta.
+class myclass
+constructor(non-concatenated)
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+if problem=multiple choice 
+select from multiple Choice
+else
+prompt 
+log
+myclass=new.myclass(concatenated)
+return category
 if category==math problem:
 prompt
 log
