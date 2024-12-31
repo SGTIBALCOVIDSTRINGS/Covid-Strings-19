@@ -203,4 +203,3 @@ if winner==false:
 log(no winner yet) 
 return filename
 
-return filename
