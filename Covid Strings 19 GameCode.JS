@@ -24,6 +24,13 @@ override
 public actionperformed(actionevent e)
 random r= newrandom();
 colorpanel.setbackground(new color(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),(rnextint(13)(rnextint(13),(rnextInt(13),(rnextint(13)))
+num teams
+total players= players per team
+if players per team=zero
+return zero
+else 
+return math floor total players/players per team
+teamsgrouping=(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)
 buttonpanel.add(optionbutton);
 optionbutton.add actionlistener(new action listener)
 override 
@@ -162,15 +169,15 @@ for(int i=1; i<s1.length();i++)}
 string s11=s1.substring(0,i)
 strings12=s1.substring(i,s1.length());
 strings21=s2.substring(0,i)
-string22=s2.Substring(0,s2.length()-i);
-string23=s2.Substring(0,s2.length()-i ());
-string31=s3.Substring(0,i)
-string32=s3.Substring(0,s3.length()-i)
-string33=s3.Substring(0,s3.length()-i());
-string41=s4.Substring(0,i)
-string42=s4.Substring(0,s4.length()-i);
-string43=s4.Substring(0,s4.length()-i());
-string51=s5.Substring(0,i)
+string22=s2.substring(0,s2.length()-i);
+string23=s2.substring(0,s2.length()-i ());
+string31=s3.substring(0,i)
+string32=s3.substring(0,s3.length()-i)
+string33=s3.substring(0,s3.length()-i());
+string41=s4.substring(0,i)
+string42=s4.substring(0,s4.length()-i);
+string43=s4.substring(0,s4.length()-i());
+string51=s5.substring(0,i)
 string52=s5.substring(0,s5.length()-i);
 if selectedanswer=not correct
 return false
@@ -180,4 +187,20 @@ if selectedanswer=correct:
 return true
 else:
 return false
+answer checker
+scanner=new scanner(system.in)
+string correct answer
+string useranswer=scanner.nextline()
+if useranswer.equals((correctanswer))
+system.out.print.in(correct)
+else:
+system.out.printin(incorrect)
+scanner.close
+check winner:
+if winner==true:
+log(the winner is)
+if winner==false:
+log(no winner yet) 
+return filename
+
 return filename
