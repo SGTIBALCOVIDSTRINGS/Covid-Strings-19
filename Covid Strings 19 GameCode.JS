@@ -1,20 +1,20 @@
 doc.type.html
 script
-filename=covidstrings19gamecode.js
-java.awt graphics 
 this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=document getelementbyid(header)
 src.appendchild(this.img)
+filename=covidstrings19gamecode.js
+java.awt graphics 
 <div id=header></div>
 audio=new audio(audio_file mp3)
 audio.play 
-jbutton random button
-new jbutton (set random color)
+random button
+new button (set random color)
 private final j button option button=
 new j button (change color)
 public fun with graphics()
-jpanel color panel=new j panel();
+color panel=new j panel();
 this add (panel,center)
 jpanel button panel=
 new j panel (flowlayout.center)
@@ -58,7 +58,7 @@ score+=twenty
 else:
 score-=twenty
 lblscore=document.getelementbyid(lblscore)
-lbl.score.innerHTML=score
+lbl.score.inner html=score
 public actionperformed(action event e) 
 system.out print.in (next button clicked)
 frame.add(next button);
@@ -67,30 +67,31 @@ object {a:one,b:two,c:three,d:four,e:five,f:six,g:seven,h:eight}
 keys object keys(team)
 entries object entries(obj);
 value object= [team color]
-covidstringsteamlist19=[black,green,burgundy,indigo,red,yellow,violet,orange]
+covidstringsteamlist19=[black night riders ,green peacemakers ,burgundy rebuilders,indigo isos,red protein spikers,yellow moxie,violet relivers,orange rna messengers]
 covid strings phraselist19=[non-concatenated strings
-the cdc on the other hand says the current wave is the second largest
-one map might have predicted some of the hotspots
-the question though is should you still be worried about it?
-lifestyle though can help prevent long covid
-andrew huberman is wrong on whether you should take both flu and covid shots
-chinas post covid population collapse however is a lot more murky when it comes to hard data
-from a new cold war perspective this could be some good news long term
-inflation though could be a major wildcard both in the past and future 
+"the cdc on the other hand says the current wave is the second largest"
+"one map might have predicted some of the hotspots"
+"the question though is should you still be worried about it"?
+"lifestyle though can help prevent long covid"
+"andrew huberman is wrong on whether you should take both flu and covid shots"
+"chinas post covid population collapse however is a lot more murky when it comes to hard data"
+"from a new cold war perspective this could be some good news long term"
+"inflation though could be a major wildcard both in the past and future" 
 concatenated strings
-the+great+resignation+is+in+terms+of+economic+democracy+a+good+sign
-in+terms+of+covid+democracy+there+is+more+freedom+of+movement+but+there+are+more+flawed+tests
-at+least+this+will+be+over+soon+is+for+covid+and+hopefully+not+for+democracy
-its+more+likely+that+more+bat+viruses+can+cause+another+pandemic
-this+is+even+more+important+when+considering+that+covid+itself+was+caused+by+bats
-this+also+means+more+research+on+bats+ability+to+spread+disease
-covid+research+though+should+also+extend+to+long+covid
-this+includes+research+and+trials+for+treatments]
-covid strings19 scrambled phraseslist=[rachreas tab irusevs,gresalt veaw cesdon,nolg ovicd,ocdiv+emcorady,ocdiv+aterg+naitonesigr]
+"the"+"great"+"resignation"+"is"+"in"+"terms"+"of"+"economic"+"democracy"+"a"+"good"+"sign"
+"in"+"terms"+"of"+"covid"+"democracy"+"there"+"is"+"more"+"freedom"+"of"+"movement"+"but"+"there"+"are"+"more"+"flawed"+"tests"
+"at"+"least"+"this"+"will"+"be"+"over"+"soon"+"is"+"for"+"covid"+"and"+"hopefully"+"not"+"for"+"democracy"
+"its"+"more"+"likely"+"that"+"more"+"bat"+"viruses"+"can"+"cause"+"another"+"pandemic"
+"this"+"is"+"even"+"more"+"important"+"when"+"considering"+"that"+"covid"+"itself"+"was"+"caused"+"by"+"bats"
+"this"+"also"+"means"+"more"+"research"+"on"+"bats"+"ability"+"to"+"spread"+"disease"
+"covid"+"research"+"though"+"should"+"also"+"extend"+"to"+"long"+"covid"
+"this"+"includes"+"research"+"and"+"trials"+"for"+"treatments"]
+covid strings19 scrambled phraseslist=[non-concatenated "rachreas tab irusevs","gresalt veaw cesdon","nolg ovicd","ocdiv"+"emcorady","ocdiv"+"aterg"+"naitonesigr"]
 covid strings19 multiplechoicelist=[1:a jojo siwa b the cdc c russian military bloggers d the nih,2:a democracy b authoritarianism c freedom house rankings d call of duty,3:a wizard b actuary c map d bill to kick trump off the ballot,4:a happy b worried c spaced out d thinking,5:a stock market reaching40 thousand b trumps new republican threat c great resignation d the alphabet soup agencies,6:a lifestyle b your mother c republicans stopping carrying putins water d common sense,7:a nuclear winter b winter is coming c this will be over soon d eternal darkness,
 8:a rsv b hantavirus c norovirus d covid,9:a bat viruses b integration of people from nature c alien viruses d extreme snowboarding,10:a chinas b east timors c sri lanka d russias,11:a zz key b the american bar association c bats d an aardvark,12:a new cold war b hot peace c end of history d1980s,13:a skepticism b research c looking back d blind faith,14:a inflation b shrinkflation c sharkflation d shaqflation,
 15:a short b medium  c long d russias election of,16:a tribulations b trials c russian activists fighting the kremlin d russian military cover-ups           
-covid strings19 math problemslist =[inflation though could be a wildcard in both the past and future,if a graph showed a line of inflation with a slope of5 if the point in which the lines y intercept exists is at(0,1) what is the y coordinate if the x coordinate is9.5?,if the same graph were reflected along the x axis what would the resulting points Be?,If The Points From The previous question got reflected off the y axis at the same angle what would the new points be?, if the previous points got rotated 270 degrees clockwise what would the resulting points be?,if the first point in the solution of the previous problem was rotated180 degrees counterclockwise what would the result be?,if+88+percent+view+the+great+resignation+as+a+positive+step+for+america+how+many+dont?,if+79+percent+strongly+believe+this+what+percent+is+mild?,if+the+margin+of+error+is+5.01+percent+what+is+the+range?,if+49+percent+believe+the+cdcs+claim+that+the+current+covid+wave+is+the+second+largest+how+many+dont?,if+36+percent+strongly+believe+this+how+many+are+mild?,if+the+margin+of+error+is+5.06+percent+what+is+the+range?]
+covid strings19 math problemslist =[ non-concatenated"inflation though could be a wildcard in both the past and future","if a graph showed a line of inflation with a slope of5 if the point in which the lines y intercept exists is at(0,1) what is the y coordinate if the x coordinate is9.5"?,"if the same graph were reflected along the x axis what would the resulting points be"?,"if the points from the previous question got reflected off the y axis at the same angle what would the new points be"?, "if the previous points got rotated 270 degrees clockwise what would the resulting points be"?,"if the first point in the solution of the previous problem was rotated180 degrees counterclockwise what would the result be"?,
+concatenated "if"+"88"+"percent"+"view"+"the"+"great"+"resignation"+"as"+"a"+"positive"+"step"+"for"+"america"+"how"+"many"+"dont"?,"if"+"79"+"percent"+"strongly"+"believe"+"this"+"what"+"percent"+"is"+"mild"?,"if"+"the"+"margin"+"of"+"error"+"is"+"5.01"+"percent"+"what"+"is"+"the"+"range"?,"if"+"49"+"percent"+"believe"+"the"+"cdcs"+"claim"+"that"+"the"+"current"+"covid"+"wave"+"is"+"the"+"second"+"largest"+"how"+"many"+"dont"?,"if"+"36"+"percent"+"strongly"+"believe"+"this"+"how"+"many"+"are"+"mild"?,"if"+"the"+"margin"+"of"+"error"+"is"+"5.06"+"percent"+"what"+"is"+"the"+"range"?]
 userin.select team
 import meta.
 class myclass
@@ -191,7 +192,7 @@ answer checker
 scanner=new scanner(system.in)
 string correct answer
 string useranswer=scanner.nextline()
-if useranswer.equals((correctanswer))
+if useranswer.equals(correctanswer)
 system.out.print.in(correct)
 else:
 system.out.printin(incorrect)
@@ -200,6 +201,10 @@ check winner:
 if winner==true:
 log(the winner is)
 if winner==false:
-log(no winner yet) 
+log(no winner yet)
+if users team wins covid strings19 
+console log users team wins covid strings19 
+else
+return game over
 return filename
 
