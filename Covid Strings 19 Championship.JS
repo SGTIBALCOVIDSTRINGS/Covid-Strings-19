@@ -9,8 +9,8 @@ link rel= stylesheet href=css
 head
 body
 div id=bracket-container ></div>
-body
-html
+matchup
+solid zero;
 filename=covid strings19 championship.js
 championship game=(highest and lowest remaining seeds) 
 team low seed =lowest remaining seed
