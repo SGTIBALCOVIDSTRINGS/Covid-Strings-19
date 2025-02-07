@@ -4,20 +4,20 @@ this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=document getelementbyid(header)
 src.appendchild(this.img)
-filename=covidstrings19gamecode.js
+filename=covidstrings19.js
 java.awt graphics 
 <div id=header></div>
 audio=new audio(audio_file mp3)
 audio.play 
 random button
 new button (set random color)
-private final j button option button=
-new j button (change color)
+option button
+new  button (change color)
 public fun with graphics()
-color panel=new j panel();
+color panel=new  panel();
 this add (panel,center)
-jpanel button panel=
-new j panel (flowlayout.center)
+button panel
+new  panel (flowlayout.center)
 buttonpanel.add(randombutton);
 random.button add actionlistener(new action listener)
 override 
