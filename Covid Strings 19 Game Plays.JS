@@ -7,7 +7,7 @@ blank= part of string that user must answer
 user answer=individual users answer
 team answer=teams answer
 user in select string category
-if category==Non-concatenated
+if category==non-concatenated
 user.fill blank in string unit
 else 
 remain
