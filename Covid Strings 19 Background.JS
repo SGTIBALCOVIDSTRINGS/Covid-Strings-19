@@ -1,5 +1,23 @@
 doc.type.html
+html lang en 
 script
+header=document create.element(header)
+header.style.backgroundcolor=#4caf50
+header.style.color=’white’
+header.style.padding=’10px’
+header.style.textalign=’center’
+header.style.text.fontsize=’24px’
+header.textcontent=’covid strings18
+document appendchild(header)
+<header.html>
+heading variables 
+the heading numbers that determine where each heading and subheading go 
+heading1=#background overview
+heading2=#functions
+heading3=background code 
+<header.html>
+background overview
+background for covid strings19
 filename=covidstrings19background.js
 java.awt graphics 
 this.img=document.createelement(covid)
@@ -9,24 +27,30 @@ src.appendchild(this.img)
 <div id=header></div>
 audio=new audio(audio_file mp3)
 audio.play 
-jbutton random button
-new jbutton(set random color)
-private final jbutton option button=
-new j button(change color)
+random button
+new button(set random color)
+option button
+new  button(change color)
 public fun with graphics()
-jpanel color panel=new j panel();
+color panel=new j panel();
 this add (panel,center)
-jpanel button panel=
-new j panel(flowlayout.center)
+button panel=
+new  panel(flowlayout.center)
 buttonpanel.add(randombutton);
 random.button add actionListener(new action listener)
 override 
 public actionperformed(actionevente)
 random r=newrandom();
+<header.html>
+background functions 
+functions used in covid strings19 background 
 colorpanel.setbackground(new color(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),(rnextint(13)),(rnextInt(13)),(rnextint(13)),(rnextint(13)))
 buttonpanel.add(optionbutton);
 optionbutton.add actionlistener(new action listener)
 override 
+<header.html>
+background code 
+code to program game background
 public actionperformed(actionevent e)
 color m=jcolorchooser.showdialog(funwithgraphics.this)
 if(multi!=null)
@@ -51,7 +75,7 @@ score+=twenty
 else:
 score-=twenty
 lblscore=document.getelementbyid(lblscore)
-lbl.score.innerHTML=score
+lbl.score.inner html=score
 public actionperformed(action event e) 
 system.out print.in(next button clicked)
 frame.add(next button);
